@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sample post
+title: CoreOS - Beginners guide
 categories:
 - blog
 ---

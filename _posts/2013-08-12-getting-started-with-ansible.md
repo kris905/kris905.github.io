@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Another sample
+title: Getting started with Ansible
 categories:
 - blog
+- Tech
 ---
 
 Tattooed roof party *vinyl* freegan single-origin coffee wayfarers tousled, umami yr 
