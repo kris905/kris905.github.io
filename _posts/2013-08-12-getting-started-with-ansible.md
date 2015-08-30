@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Getting started with Ansible
-categories:
-- blog
-- Tech
+categories: IT Automation, deployment
+
 ---
 
 Tattooed roof party *vinyl* freegan single-origin coffee wayfarers tousled, umami yr 

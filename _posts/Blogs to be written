@@ -1,13 +1,6 @@
 Blogs to be written
 --------------------
-- CoreOS and docker - 1
-- CoreOS and docker - 2
 
-- Serf and python
-- Serf and 
-
-- Ansible dynamic inventory
-- Ansible getting started
 
 - Python cheat sheets
 - Python and Libvirt	
@@ -20,17 +13,20 @@ Blogs to be written
 - InfluxDB
 - PuchDB
 
-- Angular Stuff
+- Cloud 9 IDE, Sublime, Brackets
+
+- JavaScript Basics
+- JavaScript 1
+- JavaScript 2
+- JavaScript 3
+
 - Angular 1
-- Angular 2
-- Angular 3
-- Angular 4
-- Angular 5
+- Angular 2 - Create custom directive
+- Angular 3 - Services
+- Angular 4 - Local DB
+- Angular 5 - Passport JS
 - Angular 6
 - Angular 7
-- Angular 8
-- Angular 9
-- Angular 10
 
 - Node.js 1
 - Node.js 1
@@ -40,8 +36,8 @@ Blogs to be written
 - Crosswalk
 
 - ASP.NET Entity framework 1
-- ASP.NET Entity framework 1
-- ASP.NET Entity framework 1
+- ASP.NET Entity framework 1 - REST API
+- ASP.NET Entity framework 1 - Angular
 - ASP.NET Entity framework 1
 
 - ionic -1
@@ -54,13 +50,22 @@ Blogs to be written
 - WebRTC 1
 - WebRTC 2
 
+- CoreOS and docker - 1
+- CoreOS and docker - 2
+
+- Serf and python
+- Serf and 
+
+- Ansible dynamic inventory
+- Ansible getting started
+
 
 - iOS Development 1
+- iOS Development 1 - github goodies and libraries
+- iOS Development 1 - Sketch UI
 - iOS Development 1
-- iOS Development 1
-- iOS Development 1
-- iOS Development 1
-- iOS Development 1
+- iOS Development 1 - Swift
+- iOS Development 1 - Swift
 
 - BLE - 1
 - BLE - 2
