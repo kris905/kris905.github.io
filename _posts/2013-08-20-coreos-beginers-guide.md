@@ -33,7 +33,7 @@ iPhone try-hard jean shorts.
 
 Syntax highlighting with Solarized theme.
 
-{% highlight ruby %}
+{% highlight python %}
 class User < ActiveRecord::Base
   attr_accessible :email, :name
 
